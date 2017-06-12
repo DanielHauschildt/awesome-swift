@@ -737,6 +737,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority.
 * [WDImagePicker](https://github.com/justwudi/WDImagePicker) - Image picker with customizable crop rectangle (getting update).
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS based on FLAnimatedImage.
+* [PhotoEditor SDK](https://github.com/imgly/pesdk-ios-build) - A fully customizable photo editor for your app. Integrate the photo editor into your own iOS app in minutes.
+
 
 ### Key Value Coding
 *Libraries for key-value coding in Swift* [back to top](#readme) 
